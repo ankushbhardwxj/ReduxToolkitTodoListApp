@@ -19,6 +19,13 @@
   margin-top: 2px;
   font-family: 'Courier New', Courier, monospace;
 }
+.values {
+  font-size: 38px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-top: 2px;
+  font-family: 'Courier New', Courier, monospace;
+}
 
 .button {
   appearance: none;
@@ -44,6 +51,13 @@
   margin-right: 4px;
 }
 
+.textbox2 {
+  font-size: 32px;
+  padding: 2px;
+  width: 200px;
+  text-align: center;
+  margin-right: 4px;
+}
 .button:hover,
 .button:focus {
   border: 2px solid rgba(112, 76, 182, 0.4);
